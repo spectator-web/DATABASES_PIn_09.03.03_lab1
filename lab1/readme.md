@@ -95,23 +95,3 @@
 3. Для редактирования — открыть `.drawio` файлы в [draw.io](https://app.diagrams.net/) или в VS Code с расширением Draw.io Integration.
 4. Презентация — `lifepilot_presentation.pdf`.
 
-## Структура проекта (общая)
-
-```
-life-pilot/
-├── docs/
-│   └── dfd/                          # материалы ЛР №1
-│       ├── A-0 контекстная.drawio
-│       ├── A-0 контекстная.drawio.png
-│       ├── A0 декомпозиция.drawio
-│       ├── A0 декомпозиция.drawio.png
-│       ├── A4 детализация.drawio
-│       ├── A4 детализация.drawio.png
-│       ├── lifepilot_dfd_model.pdf
-│       └── matrix_events.md
-├── labs/
-│   └── lab1-dfd/
-│       ├── README.md
-│       └── lifepilot_presentation.pdf
-└── README.md
-```
